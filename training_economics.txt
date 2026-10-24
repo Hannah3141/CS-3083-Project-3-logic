@@ -1,0 +1,199 @@
+Supply and demand determine prices.
+
+Inflation is the rise in general prices.
+
+A market economy relies on competition.
+
+The central bank controls monetary policy.
+
+Consumers make choices to maximize utility.
+
+Producers aim to maximize profit.
+
+Scarcity forces people to make choices.
+
+Opportunity cost is the next best alternative.
+
+Gross Domestic Product measures economic output.
+
+Unemployment is a key economic indicator.
+
+Fiscal policy involves government spending and taxes.
+
+Interest rates affect consumer borrowing.
+
+High inflation reduces purchasing power.
+
+A budget deficit occurs when spending exceeds revenue.
+
+A trade surplus means exports exceed imports.
+
+The law of supply states that supply rises with price.
+
+The law of demand states that demand falls with price.
+
+Equilibrium is where supply equals demand.
+
+Price ceilings can cause shortages.
+
+Price floors can lead to surpluses.
+
+A monopoly has one dominant seller.
+
+An oligopoly has few large firms.
+
+Perfect competition involves many small sellers.
+
+A command economy is centrally planned.
+
+Mixed economies combine markets and planning.
+
+Taxes fund public goods and services.
+
+The stock market reflects business performance.
+
+Bonds are debt instruments issued by governments or companies.
+
+Exchange rates affect international trade.
+
+Currency appreciation increases a nation's import power.
+
+Tariffs are taxes on imports.
+
+Quotas limit the quantity of imports.
+
+Subsidies lower production costs.
+
+The World Bank supports development projects.
+
+The International Monetary Fund provides financial aid.
+
+Free trade reduces barriers between nations.
+
+Protectionism supports domestic industries.
+
+Comparative advantage boosts trade efficiency.
+
+Absolute advantage means producing more with the same resources.
+
+GDP per capita measures income per person.
+
+Productivity measures output per input.
+
+Minimum wage laws set pay floors.
+
+Public goods are non-excludable and non-rival.
+
+Externalities are side effects of economic activity.
+
+Negative externalities include pollution.
+
+Positive externalities include education.
+
+The business cycle includes booms and recessions.
+
+Recessions involve declining GDP.
+
+A depression is a prolonged economic downturn.
+
+Economic growth increases total output.
+
+Capital includes tools, machines, and buildings.
+
+Labor refers to human effort in production.
+
+Land refers to natural resources.
+
+Entrepreneurship combines resources to create goods.
+
+Income inequality is a major economic issue.
+
+The Lorenz curve shows income distribution.
+
+Gini coefficient measures inequality.
+
+Consumer confidence affects spending.
+
+Savings fuel investment and growth.
+
+Investment increases productive capacity.
+
+Marginal cost is the cost of one more unit.
+
+Marginal benefit is the gain from one more unit.
+
+The law of diminishing returns reduces marginal output.
+
+Utility measures satisfaction from consumption.
+
+Total revenue equals price times quantity sold.
+
+Profit equals revenue minus cost.
+
+Fixed costs do not change with output.
+
+Variable costs change with production levels.
+
+Economies of scale reduce average costs.
+
+Diseconomies of scale increase average costs.
+
+A tariff increases import prices.
+
+Economic models simplify reality to analyze choices.
+
+Rational behavior assumes people make logical decisions.
+
+Behavioral economics challenges rational choice theory.
+
+Game theory analyzes strategic interactions.
+
+Price elasticity measures demand sensitivity.
+
+Inelastic goods have little change in demand with price.
+
+Elastic goods respond greatly to price changes.
+
+Microeconomics focuses on individual markets.
+
+Macroeconomics studies the entire economy.
+
+The Federal Reserve sets U.S. interest rates.
+
+Open market operations affect money supply.
+
+Expansionary policy boosts economic activity.
+
+Contractionary policy slows inflation.
+
+Hyperinflation rapidly erodes money value.
+
+Deflation is a sustained drop in prices.
+
+Stagflation combines inflation and unemployment.
+
+Real GDP adjusts for inflation.
+
+Nominal GDP uses current prices.
+
+The CPI tracks changes in consumer prices.
+
+Demand-pull inflation comes from excessive demand.
+
+Cost-push inflation comes from rising costs.
+
+Crowding out reduces private investment.
+
+A progressive tax increases with income.
+
+A regressive tax takes a larger percentage from low incomes.
+
+Flat taxes apply the same rate to everyone.
+
+Human capital refers to education and skills.
+
+Natural monopolies arise from high fixed costs.
+
+Antitrust laws prevent unfair market control.
+
+Economic policies aim to improve welfare.

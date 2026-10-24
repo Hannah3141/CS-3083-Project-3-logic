@@ -1,0 +1,200 @@
+physics: The acceleration due to gravity near Earth's surface is approximately 9.8 m/s².
+biology: Enzymes act as catalysts by lowering the activation energy of biochemical reactions.
+economics: A monopolist can influence market price by adjusting supply.
+world history: The fall of the Berlin Wall in 1989 symbolized the end of the Cold War.
+biology: DNA replication occurs during the S phase of the cell cycle.
+physics: A capacitor stores energy in an electric field between its plates.
+world history: The Treaty of Versailles officially ended World War I in 1919.
+economics: GDP measures the total economic output of a country within a year.
+biology: Mitochondria are often called the powerhouses of the cell.
+physics: Light exhibits both wave-like and particle-like properties.
+economics: Inflation erodes the purchasing power of money over time.
+world history: The Industrial Revolution began in Great Britain in the late 18th century.
+physics: The Doppler effect changes the frequency of waves for an observer moving relative to the source.
+biology: Osmosis is the passive movement of water across a semipermeable membrane.
+economics: Opportunity cost is the value of the next best alternative foregone.
+world history: Julius Caesar’s assassination led to the end of the Roman Republic.
+biology: Photosynthesis converts solar energy into chemical energy stored in glucose.
+physics: Entropy is a measure of disorder or randomness in a system.
+economics: A budget deficit occurs when government expenditures exceed revenues.
+world history: The Black Death drastically reduced Europe’s population in the 14th century.
+biology: Antibiotics target specific bacterial processes without affecting human cells.
+physics: Hooke’s law states that the force needed to extend a spring is proportional to its extension.
+economics: A progressive tax takes a larger percentage from high-income earners.
+world history: The Meiji Restoration modernized Japan during the 19th century.
+biology: RNA differs from DNA by containing the base uracil instead of thymine.
+physics: The photoelectric effect provided evidence for quantized light energy.
+economics: Demand curves generally slope downward due to diminishing marginal utility.
+world history: The Cold War featured a nuclear arms race between the US and the Soviet Union.
+biology: Chloroplasts contain chlorophyll, which captures light for photosynthesis.
+physics: Newton’s second law states that F = ma.
+economics: Supply-side policies aim to increase productivity and economic output.
+world history: Napoleon's defeat at Waterloo marked the end of his reign.
+biology: Natural selection leads to the evolution of species over generations.
+physics: The principle of superposition applies to wave interference patterns.
+economics: The law of diminishing returns affects productivity as input increases.
+world history: The Renaissance emphasized humanism and classical learning.
+biology: Homeostasis maintains stable internal conditions in living organisms.
+physics: Ohm’s law relates voltage, current, and resistance in an electrical circuit.
+economics: Exchange rates determine the value of one currency in terms of another.
+world history: Martin Luther’s 95 Theses sparked the Protestant Reformation.
+biology: The immune system defends against pathogens using white blood cells.
+physics: A pendulum’s period depends on its length and the acceleration due to gravity.
+economics: Consumer surplus is the difference between what buyers are willing to pay and what they actually pay.
+world history: The Ottoman Empire controlled large parts of Europe, Asia, and Africa for centuries.
+biology: The nucleus contains the genetic material of eukaryotic cells.
+physics: Thermal expansion occurs when materials expand upon heating.
+economics: Comparative advantage leads to specialization and trade.
+world history: The French Revolution began in 1789 and led to the rise of Napoleon.
+biology: A mutation is a permanent change in a DNA sequence.
+physics: The Lorentz force acts on a charged particle in electric and magnetic fields.
+economics: The business cycle includes phases like expansion, peak, recession, and recovery.
+world history: The Magna Carta limited the power of the English monarchy in 1215.
+biology: The endocrine system regulates bodily functions through hormones.
+physics: Work is defined as force applied over a distance.
+economics: Price ceilings can lead to shortages in the market.
+world history: The Age of Exploration expanded European influence worldwide.
+biology: A population is a group of organisms of the same species living in a specific area.
+physics: The conservation of momentum applies to closed systems.
+economics: The Phillips Curve illustrates an inverse relationship between inflation and unemployment.
+world history: The American Civil War was fought primarily over slavery and states’ rights.
+biology: Cell membranes are composed of phospholipid bilayers.
+physics: Refraction causes a change in the direction of light when it enters a different medium.
+economics: The marginal cost is the cost of producing one more unit of a good.
+world history: The United Nations was founded in 1945 to promote global cooperation.
+biology: Anaerobic respiration occurs without the use of oxygen.
+physics: Torque is a measure of rotational force.
+economics: Fiscal policy involves government spending and taxation decisions.
+world history: The Great Depression began after the 1929 stock market crash.
+biology: Viruses require host cells to replicate their genetic material.
+physics: A vector quantity has both magnitude and direction.
+economics: Utility represents the satisfaction a consumer gains from consuming goods.
+world history: Ancient Mesopotamia is known as the cradle of civilization.
+biology: The Golgi apparatus modifies and packages proteins for secretion.
+physics: Coulomb’s law describes the force between electric charges.
+economics: A subsidy lowers production costs for businesses.
+world history: The Roman Empire split into eastern and western halves in the 4th century.
+biology: Genetic drift is a mechanism of evolution due to random changes in allele frequencies.
+physics: Inertia is the resistance of an object to changes in its state of motion.
+economics: A public good is non-excludable and non-rival in consumption.
+world history: The Chinese Civil War led to the formation of the People's Republic of China in 1949.
+biology: Transcription is the process of copying DNA into RNA.
+physics: Resonance occurs when a system oscillates at its natural frequency.
+economics: Monetary policy controls the money supply and interest rates.
+world history: The Crusades were religious wars initiated by European Christians in the Middle Ages.
+biology: Cytokinesis is the division of the cytoplasm during cell division.
+physics: A black hole’s gravity is so strong that not even light can escape.
+economics: The Lorenz curve is used to represent income distribution.
+world history: The Cuban Missile Crisis was a 13-day confrontation in 1962.
+biology: The brain stem controls involuntary functions like heartbeat and breathing.
+physics: An electric current is the flow of electric charge.
+economics: Perfect competition assumes many firms and identical products.
+world history: The United States dropped atomic bombs on Hiroshima and Nagasaki in 1945.
+physics: The Heisenberg uncertainty principle states that position and momentum cannot both be precisely known at the same time.
+physics: Kirchhoff's laws govern current and voltage in electrical circuits.
+biology: The Hardy-Weinberg principle describes genetic equilibrium in populations.
+biology: Ligaments connect bones to other bones at joints.
+world history: The Marshall Plan aimed to rebuild Europe after World War II.
+world history: Genghis Khan founded the Mongol Empire in the early 13th century.
+economics: The invisible hand describes self-regulating behavior in free markets.
+economics: The Laffer Curve illustrates the relationship between tax rates and tax revenue.
+physics: The decay of radioactive isotopes has applications in archaeological dating.
+economics: A prolonged economic downturn often leads to social unrest and political instability.
+biology: Genetic engineering can be used to create organisms that resist environmental changes.
+world history: The economic collapse of 1929 triggered global political shifts.
+economics: A centrally planned economy allocates resources based on governmental priorities.
+biology: Protein folding errors can lead to neurodegenerative diseases.
+physics: Gravitational lensing allows astronomers to observe distant galaxies.
+world history: The transatlantic slave trade reshaped global demographics and economies.
+economics: Trade tariffs can alter geopolitical alliances and historical trade patterns.
+biology: The human genome project was a major milestone in modern science.
+physics: Quantum entanglement challenges classical notions of locality and causality.
+world history: Colonization often involved the extraction of natural resources and labor exploitation.
+economics: Currency devaluation can help correct trade imbalances but risks inflation.
+biology: Climate change affects species migration and biodiversity.
+physics: The Higgs boson helps explain how particles acquire mass.
+world history: The spread of industrialization disrupted traditional agrarian societies.
+biology: The nervous system communicates via electrical impulses and neurotransmitters.
+economics: Labor markets are influenced by education, technology, and migration patterns.
+physics: Nuclear fusion offers potential as a clean energy source but remains technically challenging.
+world history: The Silk Road facilitated trade and cultural exchange across continents.
+biology: The carbon cycle links biological, geological, and atmospheric processes.
+economics: The IMF provides loans and policy advice to countries facing financial crises.
+physics: The double-slit experiment reveals the dual nature of light and matter.
+world history: The Treaty of Tordesillas divided newly discovered lands between Spain and Portugal.
+biology: Biotechnology intersects with ethics, policy, and economics.
+economics: Speculative bubbles can arise from investor psychology rather than fundamentals.
+physics: String theory aims to unify gravity with quantum mechanics.
+world history: The Marshall Plan aimed to revive European economies after WWII.
+biology: CRISPR technology allows for precise genome editing in living cells.
+economics: Agricultural subsidies affect both domestic farmers and international trade.
+physics: The photoelectric effect helped establish quantum mechanics.
+world history: The Opium Wars marked the beginning of unequal treaties in China.
+biology: Human evolution shares common ancestry with other primates.
+economics: Hyperinflation can render a currency practically worthless.
+physics: The speed of light is constant in all inertial frames of reference.
+world history: The spread of capitalism transformed economies and labor systems worldwide.
+biology: Symbiosis can involve mutual benefit, commensalism, or parasitism.
+economics: The gold standard limited the flexibility of monetary policy.
+physics: Thermodynamics governs the behavior of systems in terms of energy and heat.
+world history: The Renaissance blended scientific inquiry with artistic expression.
+biology: Hormones influence both physical development and emotional responses.
+economics: Outsourcing production can reduce costs but raise ethical concerns.
+physics: The uncertainty principle reflects limits in simultaneous measurements.
+world history: Nationalism surged in the 19th century, fueling unification movements.
+biology: Cellular respiration converts glucose into usable energy.
+economics: Microfinance aims to provide loans to individuals excluded from traditional banking.
+physics: Relativity has implications for satellite-based GPS accuracy.
+world history: Enlightenment ideals inspired revolutions across the Atlantic world.
+biology: The endocrine and nervous systems coordinate complex body responses.
+economics: Marginal utility theory explains consumer decision-making under constraints.
+physics: Magnetic fields are generated by moving electric charges.
+world history: Imperialism reshaped the global balance of power in the 19th century.
+biology: Vaccination stimulates an immune response without causing disease.
+economics: Game theory analyzes strategic decision-making in competitive situations.
+physics: Blackbody radiation contributed to the development of quantum physics.
+world history: The United Nations was formed to prevent future global conflicts.
+biology: Ecological succession describes changes in ecosystems over time.
+economics: Stagflation combines high inflation with stagnant economic growth.
+physics: Superconductors exhibit zero electrical resistance below a critical temperature.
+world history: The Cold War saw competing economic systems and ideologies.
+biology: Telomeres shorten with each cell division, affecting aging.
+economics: Behavioral economics incorporates psychology into models of decision-making.
+physics: Friction converts mechanical energy into thermal energy.
+world history: The French Revolution challenged traditional monarchy and social hierarchy.
+biology: The microbiome affects digestion, immunity, and even mood.
+economics: Rent-seeking behavior involves gaining wealth without creating new value.
+physics: The concept of potential energy depends on an object’s position in a force field.
+world history: The Bantu migrations influenced the linguistic landscape of sub-Saharan Africa.
+biology: Stem cells can differentiate into specialized tissues.
+economics: Structural unemployment occurs when workers’ skills don’t match job requirements.
+physics: The inverse-square law governs forces like gravity and electrostatics.
+world history: Ancient empires used roads to maintain control over vast territories.
+biology: Neurons transmit signals using action potentials.
+economics: Crowding out occurs when government spending reduces private investment.
+physics: The refractive index determines how light bends in a medium.
+world history: The printing press revolutionized the spread of knowledge in Europe.
+biology: The placenta facilitates nutrient and gas exchange during pregnancy.
+economics: Nominal interest rates are not adjusted for inflation.
+physics: Inertia explains why passengers lurch forward when a car stops suddenly.
+world history: Feudalism structured medieval European society around land and loyalty.
+biology: Meiosis results in gametes with half the number of chromosomes.
+economics: Import quotas restrict the quantity of foreign goods in a market.
+physics: Vectors are used to represent quantities with both direction and magnitude.
+world history: The Enlightenment promoted ideas of reason, liberty, and scientific progress.
+biology: Antibodies bind to antigens to neutralize pathogens.
+economics: The balance of payments records a country’s transactions with the rest of the world.
+physics: An object in free fall experiences constant acceleration due to gravity.
+world history: The Spanish Inquisition targeted heresy within Catholic territories.
+biology: Feedback loops maintain internal stability in biological systems.
+economics: The Lorenz curve visually represents income inequality.
+physics: Momentum is conserved in isolated systems.
+world history: The Congress of Vienna aimed to restore order after Napoleon's defeat.
+biology: Enzymatic reactions are sensitive to pH and temperature changes.
+economics: The velocity of money affects inflation and GDP.
+physics: Capacitors in circuits store and release electrical energy.
+world history: The Great Schism split the Christian church into Eastern and Western branches.
+biology: Blood type compatibility is essential for safe transfusions.
+economics: Supply and demand interactions set market prices in a capitalist system.
+biology: Allele frequencies in a population can change due to natural selection or genetic drift.
+world history: The collapse of the Soviet Union in 1991 marked the end of the Cold War era.

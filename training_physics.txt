@@ -1,0 +1,199 @@
+Force equals mass times acceleration.
+
+Energy can neither be created nor destroyed.
+
+Newton’s first law is the law of inertia.
+
+Light travels faster than sound.
+
+Gravity pulls objects toward the Earth.
+
+Velocity is speed with a direction.
+
+The unit of force is the Newton.
+
+Acceleration occurs when velocity changes.
+
+Work is force applied over a distance.
+
+Power measures the rate of doing work.
+
+Kinetic energy depends on mass and velocity.
+
+Potential energy is stored energy.
+
+The speed of light is about 3x10^8 meters per second.
+
+Waves transfer energy without moving matter.
+
+Frequency is how many waves pass per second.
+
+Amplitude is the height of a wave.
+
+The Doppler effect changes wave frequency due to motion.
+
+Sound waves are longitudinal waves.
+
+Electromagnetic waves do not need a medium.
+
+Reflection occurs when waves bounce off a surface.
+
+Refraction bends waves as they pass through materials.
+
+The atomic nucleus contains protons and neutrons.
+
+Electrons orbit the nucleus of an atom.
+
+The law of conservation of momentum states total momentum is constant.
+
+Friction opposes motion between surfaces.
+
+Mass and weight are different concepts.
+
+Temperature measures average kinetic energy of particles.
+
+Heat flows from hot objects to cold objects.
+
+Thermodynamics studies energy transfer as heat and work.
+
+Pressure is force per unit area.
+
+Pascal’s principle relates to pressure in fluids.
+
+The ideal gas law connects pressure, volume, and temperature.
+
+Coulomb’s law describes the force between electric charges.
+
+Voltage is electric potential difference.
+
+Current is the flow of electric charge.
+
+Resistance opposes the flow of electric current.
+
+Ohm’s law relates voltage, current, and resistance.
+
+A circuit must be closed for current to flow.
+
+Magnets have north and south poles.
+
+Magnetic fields exert forces on moving charges.
+
+Faraday’s law explains electromagnetic induction.
+
+The atom emits light when electrons jump energy levels.
+
+Radioactive decay changes unstable atoms into stable ones.
+
+Alpha particles are helium nuclei.
+
+Beta decay emits electrons or positrons.
+
+Gamma rays are high-energy electromagnetic waves.
+
+The Big Bang theory explains the origin of the universe.
+
+Black holes have gravity so strong light cannot escape.
+
+Quantum mechanics studies particles at very small scales.
+
+The uncertainty principle limits measurement precision.
+
+Light behaves both as waves and particles.
+
+Energy levels in atoms are quantized.
+
+Superconductors have zero electrical resistance at low temperatures.
+
+The speed of sound depends on the medium.
+
+Centripetal force keeps objects moving in circles.
+
+Simple harmonic motion is a repetitive oscillation.
+
+Resonance occurs when frequencies match.
+
+Hooke’s law relates force to spring extension.
+
+The conservation of energy applies in isolated systems.
+
+Thermometers measure temperature by expansion of liquids.
+
+The Doppler radar detects moving objects using waves.
+
+Newton’s third law states every action has an equal reaction.
+
+An object in free fall accelerates at 9.8 m/s².
+
+The moon affects tides through gravitational pull.
+
+Sound intensity decreases with distance.
+
+An electric motor converts electrical energy into mechanical energy.
+
+The photoelectric effect demonstrates light’s particle nature.
+
+The wavelength of light determines its color.
+
+A prism splits white light into a spectrum.
+
+Polarization filters light waves.
+
+A capacitor stores electric charge.
+
+Insulators prevent electric current flow.
+
+Conductors allow electric current flow.
+
+The second law of thermodynamics states entropy increases.
+
+Heat engines convert heat into work.
+
+The speed of an object equals distance divided by time.
+
+The momentum of an object is its mass times velocity.
+
+Electric fields exert forces on charges.
+
+The kinetic theory explains gas behavior.
+
+A transformer changes voltage in AC circuits.
+
+Static electricity results from charge buildup.
+
+An electron has a negative electric charge.
+
+Nuclear fusion powers the sun.
+
+Nuclear fission splits heavy atoms to release energy.
+
+A projectile follows a curved path called a parabola.
+
+The center of mass is the average position of mass.
+
+Bernoulli’s principle explains fluid pressure changes.
+
+The speed of light in vacuum is constant.
+
+The Planck constant is fundamental in quantum mechanics.
+
+Light intensity decreases with the square of distance.
+
+A lever amplifies force through mechanical advantage.
+
+Elastic collisions conserve kinetic energy.
+
+Inelastic collisions do not conserve kinetic energy.
+
+The buoyant force acts upward on submerged objects.
+
+Gravity acts on all objects with mass.
+
+A photon is a particle of light.
+
+Time dilation occurs at speeds near light speed.
+
+The electron cloud model describes atomic structure.
+
+A vacuum contains no matter.
+
+The speed of light limits information transfer speed.
